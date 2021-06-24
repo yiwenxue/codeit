@@ -1,0 +1,8 @@
+#ifndef CT_CONFIG
+#define CT_CONFIG
+
+#define VERSION_MAJOR 0
+#define VERSION_MINOR 0
+#define VERSION_PATCH 2
+
+#endif
